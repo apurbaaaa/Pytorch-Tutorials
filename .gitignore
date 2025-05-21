@@ -1,0 +1,33 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm specific
+.idea/
+
+# VSCode specific
+.vscode/
+
+# Other files
+*.log
+*.bak
+*.swp
+
+# TensorFlow/PyTorch checkpoint files
+*.ckpt
+*.h5
+
+# System files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
